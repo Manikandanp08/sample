@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+#navsection{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:10px;
+}
+#myname{
+    width: 60%;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 40%;
+    padding:10px;
+}
+.navbar li{
+    list-style: none;
+}
+.navbar li a{
+    color: black;
+    text-decoration: none;
+}
